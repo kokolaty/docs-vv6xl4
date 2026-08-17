@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-bqegi5.indocuan-win.sbs/sitemap.xml
